@@ -1,0 +1,25 @@
+- 👋 Hey, I’m Kyle! (@Kyle-Lilley)
+- 📍 Born, raised, and currently reside in the state of Maryland in the United States of America.
+- 👀 I’m interested in basically all things technology, hardware and software. More specifically, but in no particular order:
+  - Machine Learning and Artificial Intelligence
+  - Cyber Security
+  - Video Games; playing, creating, broadcasting, and more.
+  - Web development and design.
+  - Software engineering and just programming in general.
+- 🌱 I’m currently learning to create and train GANs with TensorFlow as well as implementing Core ML/Create ML models in mobile applications.
+- ⌨️ Languages I have worked with:
+  - Lua
+  - Java
+  - JavaScript
+  - NodeJS
+  - Python
+  - HTML
+  - CSS
+  - C
+  - C#
+  - C++
+  - Objective C
+  - Swift
+- 💞️ I’m looking to collaborate on ...
+  - This is here from GitHub by defualt and I dont have anything specific currently. However, if any individual, group, or company wanted my assistance on a project I may be interested.
+- 📫 You can contact me via email at k.lilley589@gmail.com
